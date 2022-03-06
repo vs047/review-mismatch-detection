@@ -1,5 +1,7 @@
 emoji==1.6.3
 nltk==3.5
-numpy==1.19.0
 pandas>=0.19
-streamlit==1.7.0
+numpy>=1.9.2
+scikit-learn==0.22.1
+pandas>=0.19
+streamlit
